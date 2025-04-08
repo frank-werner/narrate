@@ -9,21 +9,21 @@
 
 ## Inhaltsverzeichnis
 
-1	Überblick	1
-1.1	Hosting / Infrastruktur	2
-1.2	Work Package (WP) 2 - Supply Chain Disruption Risk Detection & Diagnostic Framework / Task 2.2 - Risk Identification & Processing	2
-1.3	Task 4.1 – Resilience, Sustainability & Circularity Stress Testing Scenarios	3
-1.4	Task 7.3 – Innovation Potential & Impact	4
-2	Die Kits	4
-2.1	Das Monsterkit	4
-2.1.1	Der MQTT Broker	4
-2.1.2	Das Java GUI	5
-2.1.3	Externe Events	6
-2.1.4	InfluxDB / telegraf	7
-2.1.5	CEP	8
-2.1.6	Der Filler	10
-2.1.7	Python KI	10
-2.2	Das Esper Testkit	11
+- 1	Überblick
+- 1.1	Hosting / Infrastruktur
+- 1.2	Work Package (WP) 2 - Supply Chain Disruption Risk Detection & Diagnostic Framework / Task 2.2 - Risk Identification & Processing
+- 1.3	Task 4.1 – Resilience, Sustainability & Circularity Stress Testing Scenarios
+- 1.4	Task 7.3 – Innovation Potential & Impact
+- 2	Die Kits
+- 2.1	Das Monsterkit
+- 2.1.1	Der MQTT Broker
+- 2.1.2	Das Java GUI
+- 2.1.3	Externe Events
+- 2.1.4	InfluxDB / telegraf
+- 2.1.5	CEP
+- 2.1.6	Der Filler
+- 2.1.7	Python KI
+- 2.2	Das Esper Testkit
 
 
 ## 1	Überblick
