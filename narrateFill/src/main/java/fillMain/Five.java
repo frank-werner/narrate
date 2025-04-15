@@ -1,10 +1,16 @@
+/*
+	SPDX-FileName: Five.java
+	SPDX-FileCopyrightText: Copyright 2010 - 2025 Software GmbH, Darmstadt, Germany and/or its subsidiaries and/or its affiliates
+	SPDX-License-Identifier: Apache-2.0
+**/
+
 package fillMain;
 
 import java.util.Random;
 
 public class Five {
 
-	String[] cloudArray = {"---","wolkenlos","bewölkt"};
+	String[] cloudArray = {"---","wolkenlos","bewï¿½lkt"};
 	String[] keywordArray = {"---","krieg","gewalt"};
 	long speed, temperature;
 	String clouds, serious, keyword;

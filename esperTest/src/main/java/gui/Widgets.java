@@ -1,3 +1,9 @@
+/*
+	SPDX-FileName: Widgets.java
+	SPDX-FileCopyrightText: Copyright 2010 - 2025 Software GmbH, Darmstadt, Germany and/or its subsidiaries and/or its affiliates
+	SPDX-License-Identifier: Apache-2.0
+**/
+
 package gui;
 
 import java.io.InputStream;
@@ -39,7 +45,7 @@ public class Widgets {
 	}
 	
 	
-	public Table createTable(Composite composite, int cols, int width, int höhe) {
+	public Table createTable(Composite composite, int cols, int width, int hï¿½he) {
 		final Table table = new Table(composite, SWT.MULTI);
 		for (int i = 0; i < cols; i++ ) {
 			TableColumn col = new TableColumn(table,SWT.NULL);
@@ -47,7 +53,7 @@ public class Widgets {
 		}
 	    GridData gridData = new GridData();
 	    gridData.widthHint = width;
-	    gridData.heightHint = höhe;
+	    gridData.heightHint = hï¿½he;
 	    table.setLayoutData(gridData);
 	    return table;
 	}
